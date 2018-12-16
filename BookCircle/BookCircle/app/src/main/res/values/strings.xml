@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">书圈</string>
+    <string name="mis_folder_all" translatable="false">All Images</string>
+    <string name="mis_preview" translatable="false">Preview</string>
+    <string name="mis_msg_no_camera" translatable="false">No system camera found</string>
+    <string name="mis_msg_amount_limit" translatable="false">Select images amount is limit</string>
+    <string name="mis_action_done" translatable="false">Done</string>
+    <string name="mis_action_button_string" translatable="false">%1$s(%2$d/%3$d)</string>
+    <string name="mis_photo_unit" translatable="false">Shot</string>
+    <string name="mis_tip_take_photo" translatable="false">Take photo</string>
+    <string name="mis_error_image_not_exist" translatable="false">Image error</string>
+    <string name="mis_error_no_permission" translatable="false">Has no permission</string>
+    <string name="mis_permission_dialog_title" translatable="false">Permission Deny</string>
+    <string name="mis_permission_dialog_ok" translatable="false">OK</string>
+    <string name="mis_permission_dialog_cancel" translatable="false">CANCEL</string>
+    <string name="mis_permission_rationale" translatable="false">Storage read permission is needed to pick files.</string>
+    <string name="mis_permission_rationale_write_storage" translatable="false">Storage write permission is needed to save the image.</string>
+
+    <string-array name="classes">
+        <item>文学小说</item>
+        <item>青春励志 </item>
+        <item>专业技术</item>
+        <item>考试专区</item>
+    </string-array>
+</resources>
